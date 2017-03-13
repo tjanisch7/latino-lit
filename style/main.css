@@ -1,0 +1,59 @@
+#body {
+	background-color: #fff;
+	color: black;
+}
+
+#navigation {
+	
+	margin-bottom: 0;
+}
+
+.navbar-default .navbar-brand {
+	color: black;
+	font-size: 24px;
+}
+
+.nav-pills > li > a {
+	color: black;
+}
+
+.nav-pills > li> a:hover {
+	background-image: linear-gradient(to bottom, #fff, #fe4042 100%);
+}
+
+#header {
+	background-color: #fe4042;
+	height: 150px;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#header > h1 {
+	margin-top: 50px;
+}
+
+#logo {
+	margin-top: 50px;
+	padding-left: 0;
+}
+
+#about {
+	margin-top: 100px;
+}
+
+button > a {
+	color: black;
+}
+
+#footer {
+	background-color: #fe4042;
+	clear: both;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+ul {
+	list-style: none;
+	font-size: 20px;
+}
+
